@@ -69,7 +69,7 @@ JSDom/
 
 ---
 
-## Melhorias Futuras 🏎️
+## Melhorias Futuras
 
 Este projeto será evoluído com um tema visual e de funcionalidades inspirado no universo de **Velozes e Furiosos**, com foco no personagem **Dom Toretto**.
 
