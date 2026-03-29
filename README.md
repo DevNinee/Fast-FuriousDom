@@ -66,3 +66,21 @@ JSDom/
 ├── script.js    → lógica e interações
 └── README.md    → documentação
 ```
+
+---
+
+## Melhorias Futuras 🏎️
+
+Este projeto será evoluído com um tema visual e de funcionalidades inspirado no universo de **Velozes e Furiosos**, com foco no personagem **Dom Toretto**.
+
+### Visual
+- Design escuro e agressivo com tons de laranja, cinza e preto, remetendo ao estilo das corridas de rua
+- Fonte estilizada inspirada em painéis automotivos
+- Animações e efeitos visuais ao interagir com os elementos
+
+### Velocímetro interativo
+- Painel de velocímetro animado, semelhante ao de um carro de corrida
+- Botões de **Acelerar** e **Frear** que aumentam e diminuem a velocidade gradualmente
+- A cor do velocímetro muda conforme a velocidade: verde → amarelo → vermelho
+- Velocidade máxima de **300 km/h**, como nos filmes
+- Mensagens especiais ao atingir certas velocidades — por exemplo: *"Modo Toretto ativado!"* ao passar de 200 km/h
